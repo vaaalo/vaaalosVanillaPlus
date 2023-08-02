@@ -1,0 +1,13 @@
+name = "Angry Nerds MC"
+author = "vaaalo"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a6e6527d9e877ab5e7fc4da48d91b2b5c62e795c6fbbc12ae6f7522c7cc0d99c"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.20.1"
