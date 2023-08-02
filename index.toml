@@ -76,6 +76,11 @@ hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
 
 [[files]]
+file = "mods/flan.pw.toml"
+hash = "093601dacee9fd46551371069a03e6e22c7eb7e29b8fdeb2af37df93c5ba6a44"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "5945376058eb508f9a049134ed66dbc70c861d80d043441e03b10fa4338dc1e0"
 metafile = true
@@ -128,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/moving-elevators.pw.toml"
 hash = "71ff2d5d0fd0ba6669591130d0b6e6582fc90c0dd07aa7fd49cb1b2769ddb7bd"
+metafile = true
+
+[[files]]
+file = "mods/packed-up-backpacks.pw.toml"
+hash = "a67aaef2d1ff68a873b74df5880ea44f79594cb8b62ebd5b971cf801d658ebf8"
 metafile = true
 
 [[files]]

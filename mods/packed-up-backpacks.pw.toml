@@ -1,0 +1,13 @@
+name = "Packed Up (Backpacks)"
+filename = "packedup-1.0.28-fabric-mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZbFzEauY/versions/jMMyOLNB/packedup-1.0.28-fabric-mc1.20.jar"
+hash-format = "sha1"
+hash = "fb398cbeac0b350f39a94af2f2428ad57e1d76a0"
+
+[update]
+[update.modrinth]
+mod-id = "ZbFzEauY"
+version = "jMMyOLNB"
