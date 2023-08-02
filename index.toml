@@ -21,11 +21,6 @@ hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
 metafile = true
 
 [[files]]
-file = "mods/better-animations-collection.pw.toml"
-hash = "87388bfb6188340b29d7d941dae6d0ced7bc4e9b9a8c87ac3f574aee417a3e85"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "ba31b113733abc813e36738bdc8104fad628232d29907f66f48cf8c45299de9f"
 metafile = true
@@ -178,11 +173,6 @@ metafile = true
 [[files]]
 file = "mods/physicsmod.pw.toml"
 hash = "8f85069b038b5c81651161cc83c33cd941da1d5f3ac02abb16e76deba58fd1eb"
-metafile = true
-
-[[files]]
-file = "mods/puzzles-lib.pw.toml"
-hash = "fa7fa0f6977b9d4225035bd8d9abde8e1074fe7c7f24d2dba2682f6f381e73a3"
 metafile = true
 
 [[files]]
