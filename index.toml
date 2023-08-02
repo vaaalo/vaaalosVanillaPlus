@@ -11,8 +11,28 @@ hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
+metafile = true
+
+[[files]]
+file = "mods/better-animations-collection.pw.toml"
+hash = "87388bfb6188340b29d7d941dae6d0ced7bc4e9b9a8c87ac3f574aee417a3e85"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "ba31b113733abc813e36738bdc8104fad628232d29907f66f48cf8c45299de9f"
+metafile = true
+
+[[files]]
+file = "mods/calm-down-dog.pw.toml"
+hash = "062a71ae8c0f08d2e29e2813f2e68d9e3b95fb82fcdbe11981104b3300e36885"
 metafile = true
 
 [[files]]
@@ -33,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "204b3eb115e418bdad4f5f2e8ef49f0c8b8f10ad062ca10e05e1e8cde4de45ab"
+metafile = true
+
+[[files]]
+file = "mods/doggo-mod-overhauled.pw.toml"
+hash = "6d86ad0e6fd56b06e8f2d80cba652df0672ab41ab22926e8c232d3f73b428bd9"
 metafile = true
 
 [[files]]
@@ -78,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/flan.pw.toml"
 hash = "093601dacee9fd46551371069a03e6e22c7eb7e29b8fdeb2af37df93c5ba6a44"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
@@ -136,6 +166,11 @@ hash = "71ff2d5d0fd0ba6669591130d0b6e6582fc90c0dd07aa7fd49cb1b2769ddb7bd"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
+metafile = true
+
+[[files]]
 file = "mods/packed-up-backpacks.pw.toml"
 hash = "a67aaef2d1ff68a873b74df5880ea44f79594cb8b62ebd5b971cf801d658ebf8"
 metafile = true
@@ -143,6 +178,21 @@ metafile = true
 [[files]]
 file = "mods/physicsmod.pw.toml"
 hash = "8f85069b038b5c81651161cc83c33cd941da1d5f3ac02abb16e76deba58fd1eb"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "fa7fa0f6977b9d4225035bd8d9abde8e1074fe7c7f24d2dba2682f6f381e73a3"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "201ab0485fc28e1b4a8fb04f620bfe94e19a3495131b939b67a701068de7f325"
+metafile = true
+
+[[files]]
+file = "mods/respawnable-pets.pw.toml"
+hash = "f6238100a1fd9bd3dfacde950052f3a90cd2749fdcb4bfcbee58b3fc31665284"
 metafile = true
 
 [[files]]
@@ -171,6 +221,11 @@ hash = "ecfe4b722ab208dcc3fae855116b2a962a23aa5939245ba428fab97f6ecdf24f"
 metafile = true
 
 [[files]]
+file = "mods/wthit.pw.toml"
+hash = "867e85f7f6453abb5f4d03fe1516abbc6e5530c94c5e714c3b61a64bee01641e"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "1817999655716ccd487c6096cea09af0d379176c73a773b3e16b33879e9f3690"
 metafile = true
@@ -178,4 +233,14 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "060e75568f5ed015ccdcc973c6498503c9b712ebea4defac5fce3afdb5842fcf"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "2008716fdfef554660ce44659a3a42acd673a5391af2d4bd94f40654f1f60a1d"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "5f5f3db8824093d650ea00c5f860c9532288310521ca2aa3689635d6d0910016"
 metafile = true
