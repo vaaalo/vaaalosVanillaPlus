@@ -1,0 +1,13 @@
+name = "Timber by mycf (Server Side)"
+filename = "stimber-1.4.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Zu9htTR7/versions/KQXRisqL/stimber-1.4.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "b53fe8ea34c5bde60e7fb80be688458cf0b9e31f"
+
+[update]
+[update.modrinth]
+mod-id = "Zu9htTR7"
+version = "KQXRisqL"
